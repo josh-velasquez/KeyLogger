@@ -19,3 +19,11 @@ NOTE:
 When in this mode, the application will hide itself and will not be visible on your tray icons nor in 
 task manager. The only way the program will close is when it reaches the time allotted or a shutdown or restart 
 of the system.
+
+# Disclaimer
+This is for educational purpose only.
+If the keylogger does not work, you might need to update your microsoft Windows SDK.
+
+Limitations:
+- Currently, some key strokes cannot be recorder (ex. symbols and such)
+
