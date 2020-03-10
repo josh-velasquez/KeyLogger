@@ -11,6 +11,7 @@
         <Button Name="start" Content="Start Recorder" HorizontalAlignment="Left" Margin="397,20,0,0" VerticalAlignment="Top" Width="137" Height="31" Click="OnStartRecorderClick" Background="#FFFF715B"/>
         <Button Name="stop" Content="Stop Recorder" HorizontalAlignment="Left" Margin="397,56,0,0" VerticalAlignment="Top" Width="137" Height="31" Click="OnStopRecorderClick" Background="#FFFF715B"/>
         <Button Name="clear" Content="Clear" HorizontalAlignment="Left" Margin="397,92,0,0" VerticalAlignment="Top" Width="137" Height="31" Click="OnClearRecorderClick" Background="#FFFF715B"/>
+        <Button x:Name="ninja" Content="Ninja Mode" HorizontalAlignment="Left" Margin="397,363,0,0" VerticalAlignment="Top" Width="137" Height="31" Background="#FFFF715B" ToolTip="Are you sure you know what you're doing?" Click="onNinjaModeClick"/>
 
     </Grid>
 </Window>
