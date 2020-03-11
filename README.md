@@ -4,6 +4,7 @@ Can log keys discretely in the background of windows machines.
 # Running the application 
 A sample release build can found under the Sample Execute File Directory.
 Otherwise, you can run this in visual studio.
+Do note that when you run this application, Windows defender will warn you that this might be a possible malware. You can simply just select more info and run anyways.
 
 # Modes
 Normal mode:
